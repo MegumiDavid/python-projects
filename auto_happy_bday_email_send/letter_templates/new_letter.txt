@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='letter_templates/letter_3.txt' mode='r' encoding='cp1252'>
